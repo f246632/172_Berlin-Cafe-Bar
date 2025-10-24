@@ -1,0 +1,34 @@
+{
+  "google_rating": "4.0/5",
+  "total_reviews": 1,
+  "business_note": "Limited online presence - physical verification recommended",
+  "reviews": [
+    {
+      "author": "Historical Review",
+      "rating": 4,
+      "text": "Small, affordable neighborhood sports bar with friendly service. Great place to watch football on the large flatscreen. Very budget-friendly prices for Berlin.",
+      "date": "Historical",
+      "language": "en",
+      "verified": false
+    }
+  ],
+  "review_highlights": [
+    "Affordable prices",
+    "Friendly service",
+    "Great for watching sports",
+    "Local neighborhood atmosphere"
+  ],
+  "popular_mentions": [
+    "Large flatscreen TV",
+    "Heineken draft beer",
+    "Smoking permitted",
+    "Electronic/techno music"
+  ],
+  "atmosphere_keywords": [
+    "cozy",
+    "local",
+    "authentic Berlin",
+    "sports bar",
+    "shisha lounge"
+  ]
+}

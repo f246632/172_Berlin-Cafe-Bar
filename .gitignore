@@ -1,0 +1,83 @@
+# Berlin Cafe Bar - Git Ignore File
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# Editor directories and files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.classpath
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+.env.local
+.env.production
+.env.development
+
+# Dependencies (if using npm/yarn)
+node_modules/
+bower_components/
+
+# Build outputs
+dist/
+build/
+.cache/
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Image processing temp files
+images/temp/
+images/processing/
+
+# Backup files
+*.bak
+*.backup
+*-backup
+*.old
+
+# Archive files (if you want to exclude)
+*.zip
+*.rar
+*.7z
+*.tar.gz
+
+# Database files (if any)
+*.sql
+*.sqlite
+*.db
+
+# Don't ignore these important files
+!.gitignore
+!README.md
+
+# Optional: Exclude original unoptimized images if you want
+# images/source/
+# images/original/

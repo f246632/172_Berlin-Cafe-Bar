@@ -1,0 +1,78 @@
+{
+  "categories": {
+    "shisha": {
+      "name": "Shisha Selection",
+      "icon": "🌬️",
+      "items": [
+        {
+          "name": "Classic Flavors",
+          "description": "Traditional tobacco flavors",
+          "varieties": ["Mint", "Apple", "Grape", "Peach", "Watermelon"]
+        },
+        {
+          "name": "Premium Mix",
+          "description": "Special house blends",
+          "varieties": ["Tropical Mix", "Berry Fusion", "Citrus Blast", "Oriental Spice"]
+        },
+        {
+          "name": "Exotic Selection",
+          "description": "Unique and rare flavors",
+          "varieties": ["Mango Passion", "Blueberry Mint", "Coconut Dream", "Cherry Cola"]
+        }
+      ]
+    },
+    "beverages": {
+      "name": "Drinks & Beverages",
+      "icon": "☕",
+      "items": [
+        {
+          "name": "Turkish Coffee",
+          "description": "Traditional preparation"
+        },
+        {
+          "name": "Tea Selection",
+          "description": "Fresh mint tea, black tea, herbal teas"
+        },
+        {
+          "name": "Fresh Juices",
+          "description": "Orange, pomegranate, mango"
+        },
+        {
+          "name": "Soft Drinks",
+          "description": "Cola, Fanta, Sprite, water"
+        },
+        {
+          "name": "Beer",
+          "description": "Heineken draft and bottled selection"
+        }
+      ]
+    },
+    "snacks": {
+      "name": "Snacks & Light Food",
+      "icon": "🥙",
+      "items": [
+        {
+          "name": "Mezze Platter",
+          "description": "Hummus, baba ghanoush, olives"
+        },
+        {
+          "name": "Turkish Pastries",
+          "description": "Börek, simit, pogača"
+        },
+        {
+          "name": "Nuts & Seeds",
+          "description": "Roasted almonds, pistachios, sunflower seeds"
+        },
+        {
+          "name": "Fresh Fruit Platter",
+          "description": "Seasonal fruits"
+        }
+      ]
+    }
+  },
+  "special_offers": [
+    "Happy Hour: Special shisha prices",
+    "Group packages available",
+    "Birthday celebrations welcome"
+  ]
+}
